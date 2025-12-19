@@ -36,7 +36,7 @@ Half wave rectifier:
 Without Filter:
 
 <img width="1920" height="1080" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/8c53dfa7-873b-4667-b384-8d4d6fc7936d" />
-<img width="1920" height="1080" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/515e303c-31be-4f74-9f84-bfd1f644ac6a" />
+<img width="1237" height="697" alt="image" src="https://github.com/user-attachments/assets/616f0890-a90c-4af8-ab7c-ba1ebf36643e" />
 
 With Filter:
 
@@ -61,12 +61,6 @@ TABULAR COLUMN
 Rectifier without filter
 TABULAR COLUMN
 Rectifier with filter
-
-WAVEFORM:
-
-Halfwave 
-<img width="1237" height="697" alt="image" src="https://github.com/user-attachments/assets/616f0890-a90c-4af8-ab7c-ba1ebf36643e" />
-
 
 RESULT:
 

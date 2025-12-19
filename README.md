@@ -44,7 +44,7 @@ With Filter:
 <img width="1370" height="837" alt="image" src="https://github.com/user-attachments/assets/a058b22d-9965-426b-9942-577d3accb402" />
 
 
-Bridge rectifier with filter:
+Bridge rectifier:
 
 Without Filter:
 

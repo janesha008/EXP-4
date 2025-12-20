@@ -48,8 +48,8 @@ Bridge rectifier:
 
 Without Filter:
 
-<img width="1318" height="742" alt="image" src="https://github.com/user-attachments/assets/273742a8-5c48-4a67-8100-b3f4d218c5c2" />
 <img width="1920" height="1080" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/1952c93a-e73a-42c1-8e3d-661b135f6e43" />
+<img width="1318" height="742" alt="image" src="https://github.com/user-attachments/assets/273742a8-5c48-4a67-8100-b3f4d218c5c2" />
 
 With Filter
 

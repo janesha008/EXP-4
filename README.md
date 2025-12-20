@@ -35,32 +35,34 @@ Half wave rectifier:
 
 Without Filter:
 
+<img width="3749" height="1748" alt="image" src="https://github.com/user-attachments/assets/3844f12e-63c6-4cd3-9bc8-ae004bbc8dff" />
 <img width="1920" height="1080" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/8c53dfa7-873b-4667-b384-8d4d6fc7936d" />
 <img width="1237" height="697" alt="image" src="https://github.com/user-attachments/assets/616f0890-a90c-4af8-ab7c-ba1ebf36643e" />
 
 With Filter:
 
+<img width="1280" height="620" alt="image" src="https://github.com/user-attachments/assets/47d2da2f-4799-4713-ad1c-9953cd1779eb" />
 <img width="1920" height="1080" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/b8679c7d-01e7-4601-b655-c01def7c36a0" />
 <img width="1370" height="837" alt="image" src="https://github.com/user-attachments/assets/a058b22d-9965-426b-9942-577d3accb402" />
+<img width="1280" height="900" alt="image" src="https://github.com/user-attachments/assets/bb0fab74-84a8-4f93-a746-f4b3c83cc0e6" />
+<img width="1280" height="428" alt="image" src="https://github.com/user-attachments/assets/a2f5d498-7b54-43e6-a48b-aac00b2acd12" />
 
 
 Bridge rectifier:
 
 Without Filter:
 
+<img width="1280" height="643" alt="image" src="https://github.com/user-attachments/assets/37947aef-943d-4513-96f2-87538f0d42da" />
 <img width="1920" height="1080" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/1952c93a-e73a-42c1-8e3d-661b135f6e43" />
 <img width="1318" height="742" alt="image" src="https://github.com/user-attachments/assets/273742a8-5c48-4a67-8100-b3f4d218c5c2" />
 
 With Filter
 
-
+<img width="1280" height="614" alt="image" src="https://github.com/user-attachments/assets/441369d9-e227-4286-8ebb-71b0766927b9" />
 <img width="1920" height="1080" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/69e523fd-b655-43d6-9d60-4dbf336b2c21" />
 <img width="1267" height="747" alt="image" src="https://github.com/user-attachments/assets/bb41b27b-a870-484a-94ce-44a3363c717f" />
-
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+<img width="1280" height="1002" alt="image" src="https://github.com/user-attachments/assets/becc19e8-a007-4204-9a73-b9ad48858f04" />
+<img width="1280" height="430" alt="image" src="https://github.com/user-attachments/assets/e16652ee-5fa9-4806-80df-d1a3173c024a" />
 
 RESULT:
 
